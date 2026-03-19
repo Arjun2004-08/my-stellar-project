@@ -3,8 +3,11 @@
 > A fully on-chain, decentralized governance system built on **Stellar** using **Soroban** smart contracts. Token holders vote on proposals, delegate their power, and drive protocol decisions — all enforced trustlessly by the contract.
 
 ---
-
+## https://stellar.expert/explorer/testnet/contract/CCXWGGDCZZOOJKNAYJWM6LVAURLAXD73F55KDANSAMX7K4IB2VDDN2HA
 ## 📋 Table of Contents
+
+<img width="1919" height="857" alt="Screenshot 2026-03-19 145124" src="https://github.com/user-attachments/assets/c13876ca-2a96-4258-b83c-029f1670deaf" />
+
 
 - [Project Description](#-project-description)
 - [What It Does](#-what-it-does)
